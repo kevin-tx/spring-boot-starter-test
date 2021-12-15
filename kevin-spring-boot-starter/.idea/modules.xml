@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../kevin-spring-boot-autoconfigure/kevin-spring-boot-autoconfigure.iml" filepath="$PROJECT_DIR$/../kevin-spring-boot-autoconfigure/kevin-spring-boot-autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kevin-spring-boot-starter.iml" filepath="$PROJECT_DIR$/kevin-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testweb/testweb.iml" filepath="$PROJECT_DIR$/../testweb/testweb.iml" />
+    </modules>
+  </component>
+</project>
